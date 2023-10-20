@@ -1,3 +1,4 @@
+import Title from './components/Title'
 import Carro from './components/Carro'
 import Moto from './components/Moto'
 
@@ -8,6 +9,8 @@ function App() {
       <Carro />
       <hr />
       <Moto />
+      <hr />
+      <Title />
     </>
   )
 }
